@@ -4,7 +4,7 @@ title: Jim Jones
 bio: Research Associate
 country: Germany
 address: Germany
-image: /assets/img/jim-jones.png
+image: /assets/img/jim-jones.jpg
 about: "PostgreSQL Database Administrator: Design, Deployment, Maintenance, Query Tuning, SQL and PL/pgSQL Scripting, Database Monitoring, Backup, Disaster Recovery. Fields of research: Linked Data, Linked Geographic Data, Relational Databases, Geographic Databases, Ontology, Engineering, Digital Humanities."
 github: "https://github.com/jimjonesbr"
 twitter: 
